@@ -120,4 +120,5 @@ export const skillsData = [
   "Computer Networks",
   "Software Engineering",
   "Linux",
+  "PowerBI",
 ] as const;
