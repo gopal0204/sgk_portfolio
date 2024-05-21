@@ -45,6 +45,9 @@ export default function About() {
         learning about{" "}
         <span className="font-medium">history</span>.
       </p>
+      <p>
+        <span className="font-medium">As a fresher, I am looking for an opportunities to use my skills and apply them in developing a useful product.</span>
+      </p>
     </motion.section>
   );
 }
