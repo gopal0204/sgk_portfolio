@@ -64,32 +64,32 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Genetic and PSO algorithms for secure domination problem",
-    description:
-      "This project identify the optimal solution for secure domination problem using Genetic and PSO algorithms.",
-    tags: ["Python", "Algorithms", "Graphs"],
-    imageUrl: securedominationImg,
-  },
-  {
-    title: "Phishing URL Detection",
-    description:
-      "This project identify and block fraudulent website links that are designed to trick users into revealing sensitive information.",
-    tags: ["Python", "HTML", "CSS", "Pandas", "NumPy", "Machine Learning"],
-    imageUrl: phishingImg,
-  },
-  {
     title: "Classroom Management System",
     description:
-      "This project is a web app for managing classrooms, students, teachers, and courses. It has features like attendance, marks, reminder system and timetable.",
+      "Developed a web app for managing classrooms, students, teachers, and courses. It has features like attendance, marks, reminder system and timetable.",
     tags: ["JavaScript", "React", "Node.js", "MongoDB", "Express"],
     imageUrl: classroomImg,
   },
   {
     title: "Chesssup",
     description:
-      "It is a web app for playing chess online with friends. It has features like real-time chat, game history, and game analysis.",
+      "Developed a web app for playing chess online with friends. It has features like real-time chat, game history, and game analysis.",
     tags: ["React", "Redux", "JavaScript", "MongoDB", "Node.js", "Socket.io", "Express"],
     imageUrl: chessImg,
+  },
+  {
+    title: "Genetic and PSO algorithms for secure domination problem",
+    description:
+      "Developed to identify the optimal solution for secure domination problem using Genetic and PSO algorithms.",
+    tags: ["Python", "Algorithms", "Graphs"],
+    imageUrl: securedominationImg,
+  },
+  {
+    title: "Phishing URL Detection",
+    description:
+      "Developed a model to block fraudulent websites designed to steal sensitive information.",
+    tags: ["Python", "HTML", "CSS", "Pandas", "NumPy", "Machine Learning"],
+    imageUrl: phishingImg,
   },
 ] as const;
 

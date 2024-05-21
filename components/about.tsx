@@ -21,8 +21,7 @@ export default function About() {
       <p className="mb-3">
   I am {" "}
   <span className="font-medium">Computer Science and Engineering student</span>{" "}
-  at <span className="font-medium">NIT Andhra Pradesh</span>, currently in my
-  fourth year. I have a strong foundation in various programming languages and
+  at <span className="font-medium">NIT Andhra Pradesh</span>. I have a strong foundation in various programming languages and
   web technologies, including <span className="font-medium">Java, Python, C,
   C++, HTML, CSS,</span> and <span className="font-medium">JavaScript</span>,
   as well as advanced topics like <span className="font-medium">machine
@@ -31,13 +30,12 @@ export default function About() {
   demonstrated a keen interest in research through my work on graph theory
   algorithms during an internship at NIT Warangal, and enjoy applying
   theoretical concepts to practical problems. My projects, such as developing
-  a <span className="font-medium">Phishing URL Detection system, Genetic and PSO algorithms for secure domination problem, a Classroom Management System,</span> and a{" "}
-  <span className="font-medium">multiplayer chess game</span>, showcase my
+  a <span className="font-medium">Classroom Management System, multiplayer chess game, Genetic and PSO algorithms for secure domination problem</span> and a{" "}
+  <span className="font-medium">Phishing URL Detection system</span>, showcase my
   ability to learn and adapt quickly, solve complex problems, and create
   innovative solutions using frameworks like{" "}
   <span className="font-medium">React, Node.js,</span> and{" "}
-  <span className="font-medium">Express.js</span>.
-</p>
+  <span className="font-medium">Express.js</span>. Apart from all these, I enjoy to code and explore new technologies.</p>
 
 
       <p>
