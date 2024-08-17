@@ -106,6 +106,7 @@ export const skillsData = [
   "Express",
   "MongoDB",
   "Redux",
+  "PowerBI",
   "MySQL",
   "C",
   "C++",
@@ -120,5 +121,4 @@ export const skillsData = [
   "Computer Networks",
   "Software Engineering",
   "Linux",
-  "PowerBI",
 ] as const;
