@@ -107,7 +107,7 @@ export const projectsData = [
   {
     title: "Classroom Management System",
     description:
-      "Developed a web app for managing classrooms, students, teachers, and courses. It has features like attendance, marks, reminder system and timetable.",
+      "Built a web app for managing classrooms, students, and teachers, with attendance, grading, and reminders.",
     tags: ["JavaScript", "React", "Node.js", "MongoDB", "Express"],
     imageUrl: classroomImg,
     url: "https://github.com/gopal0204/Classroom_Management_System",
