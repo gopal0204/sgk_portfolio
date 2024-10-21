@@ -12,6 +12,7 @@ export default function Project({
   description,
   tags,
   imageUrl,
+  url,
 }: ProjectProps) {
   const ref = useRef<HTMLDivElement>(null);
   const { scrollYProgress } = useScroll({
@@ -46,6 +47,16 @@ export default function Project({
               </li>
             ))}
           </ul>
+          {url && (
+            <a
+              href={url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-4 inline-block text-blue-600 hover:underline dark:text-blue-400"
+            >
+              Visit Project
+            </a>
+          )}
         </div>
 
         <Image

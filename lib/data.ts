@@ -67,7 +67,7 @@ export const projectsData = [
   {
     title: "Blogging Website",
     description:
-      "Built a responsive MERN stack blog with secure authentication, admin controls, and advanced features like dynamic search and dark mode and CRUD operations, deployed on Render.",
+      "Built a responsive MERN stack blog with secure authentication, admin controls, and advanced features like dynamic search and dark mode, deployed on Render.",
     tags: ["React", "JavaScript", "MongoDB", "Node.js", "Express"],
     imageUrl: blog,
     url: "https://sgks-blog.onrender.com/",
@@ -86,7 +86,7 @@ export const projectsData = [
       "Developed to identify the optimal solution for secure domination problem using Genetic and PSO algorithms.",
     tags: ["Python", "Algorithms", "Graphs"],
     imageUrl: securedominationImg,
-    
+    url: "",
   },
   {
     title: "Phishing URL Detection",
@@ -94,6 +94,7 @@ export const projectsData = [
       "Developed a model to block fraudulent websites designed to steal sensitive information.",
     tags: ["Python", "HTML", "CSS", "Pandas", "NumPy", "Machine Learning"],
     imageUrl: phishingImg,
+    url: "",
   },
   {
     title: "Chesssup",
@@ -101,6 +102,7 @@ export const projectsData = [
       "Developed a web app for playing chess online with friends. It has features like real-time chat, game history, and game analysis.",
     tags: ["React", "Redux", "JavaScript", "MongoDB", "Node.js", "Socket.io", "Express"],
     imageUrl: chessImg,
+    url: "",
   },
   {
     title: "Classroom Management System",
@@ -108,6 +110,7 @@ export const projectsData = [
       "Developed a web app for managing classrooms, students, teachers, and courses. It has features like attendance, marks, reminder system and timetable.",
     tags: ["JavaScript", "React", "Node.js", "MongoDB", "Express"],
     imageUrl: classroomImg,
+    url: "",
   },
   
   
