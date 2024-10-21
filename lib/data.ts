@@ -6,7 +6,8 @@ import securedominationImg from "@/public/graph-algorithms1.png";
 import phishingImg from "@/public/phishing.png";
 import classroomImg from "@/public/classmanage.png";
 import chessImg from "@/public/chesssup.png";
-
+import blog from "@/public/blog.png";
+import prot from "@/public/prot.png";
 
 export const links = [
   {
@@ -64,11 +65,35 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Classroom Management System",
+    title: "Blogging Website",
     description:
-      "Developed a web app for managing classrooms, students, teachers, and courses. It has features like attendance, marks, reminder system and timetable.",
-    tags: ["JavaScript", "React", "Node.js", "MongoDB", "Express"],
-    imageUrl: classroomImg,
+      "Built a responsive MERN stack blog with secure authentication, admin controls, and advanced features like dynamic search and dark mode and CRUD operations, deployed on Render.",
+    tags: ["React", "JavaScript", "MongoDB", "Node.js", "Express"],
+    imageUrl: blog,
+    url: "https://sgks-blog.onrender.com/",
+  },
+  {
+    title: "Personal Portfolio",
+    description:
+      "The project involves building a modern, responsive portfolio website using Next.js, TypeScript, Tailwind CSS, and live deployment on Vercel.",
+    tags: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+    imageUrl: prot,
+    url: "https://sgk-portfolio.vercel.app/",
+  },
+  {
+    title: "Genetic and PSO algorithms for secure domination problem",
+    description:
+      "Developed to identify the optimal solution for secure domination problem using Genetic and PSO algorithms.",
+    tags: ["Python", "Algorithms", "Graphs"],
+    imageUrl: securedominationImg,
+    
+  },
+  {
+    title: "Phishing URL Detection",
+    description:
+      "Developed a model to block fraudulent websites designed to steal sensitive information.",
+    tags: ["Python", "HTML", "CSS", "Pandas", "NumPy", "Machine Learning"],
+    imageUrl: phishingImg,
   },
   {
     title: "Chesssup",
@@ -78,19 +103,14 @@ export const projectsData = [
     imageUrl: chessImg,
   },
   {
-    title: "Genetic and PSO algorithms for secure domination problem",
+    title: "Classroom Management System",
     description:
-      "Developed to identify the optimal solution for secure domination problem using Genetic and PSO algorithms.",
-    tags: ["Python", "Algorithms", "Graphs"],
-    imageUrl: securedominationImg,
+      "Developed a web app for managing classrooms, students, teachers, and courses. It has features like attendance, marks, reminder system and timetable.",
+    tags: ["JavaScript", "React", "Node.js", "MongoDB", "Express"],
+    imageUrl: classroomImg,
   },
-  {
-    title: "Phishing URL Detection",
-    description:
-      "Developed a model to block fraudulent websites designed to steal sensitive information.",
-    tags: ["Python", "HTML", "CSS", "Pandas", "NumPy", "Machine Learning"],
-    imageUrl: phishingImg,
-  },
+  
+  
 ] as const;
 
 export const skillsData = [
