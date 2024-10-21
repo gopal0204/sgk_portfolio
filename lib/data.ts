@@ -86,7 +86,7 @@ export const projectsData = [
       "Developed to identify the optimal solution for secure domination problem using Genetic and PSO algorithms.",
     tags: ["Python", "Algorithms", "Graphs"],
     imageUrl: securedominationImg,
-    url: "",
+    url: "https://github.com/gopal0204/Genetic-and-PSO-algorithum-for-secure-domination-number",
   },
   {
     title: "Phishing URL Detection",
@@ -94,7 +94,7 @@ export const projectsData = [
       "Developed a model to block fraudulent websites designed to steal sensitive information.",
     tags: ["Python", "HTML", "CSS", "Pandas", "NumPy", "Machine Learning"],
     imageUrl: phishingImg,
-    url: "",
+    url: "https://github.com/gopal0204/Phishing_Url_Detection",
   },
   {
     title: "Chesssup",
@@ -102,7 +102,7 @@ export const projectsData = [
       "Developed a web app for playing chess online with friends. It has features like real-time chat, game history, and game analysis.",
     tags: ["React", "Redux", "JavaScript", "MongoDB", "Node.js", "Socket.io", "Express"],
     imageUrl: chessImg,
-    url: "",
+    url: "https://github.com/gopal0204/chesssup",
   },
   {
     title: "Classroom Management System",
@@ -110,7 +110,7 @@ export const projectsData = [
       "Developed a web app for managing classrooms, students, teachers, and courses. It has features like attendance, marks, reminder system and timetable.",
     tags: ["JavaScript", "React", "Node.js", "MongoDB", "Express"],
     imageUrl: classroomImg,
-    url: "",
+    url: "https://github.com/gopal0204/Classroom_Management_System",
   },
   
   
