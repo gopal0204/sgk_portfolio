@@ -8,6 +8,7 @@ import classroomImg from "@/public/classmanage.png";
 import chessImg from "@/public/chesssup.png";
 import blog from "@/public/blog.png";
 import prot from "@/public/prot.png";
+import chatapp from "@/public/Screenshot 2024-10-31 124442.png"
 
 export const links = [
   {
@@ -81,6 +82,14 @@ export const projectsData = [
     url: "https://sgk-portfolio.vercel.app/",
   },
   {
+    title: "ChatApp",
+    description:
+      "A complete android chat app built with flutter and firebase that includes user authentication, real-time meassaging.",
+    tags: ["React", "JavaScript", "MongoDB", "Node.js", "Express"],
+    imageUrl: chatapp,
+    url: "/app-release.apk",
+  },
+  {
     title: "Genetic and PSO algorithms for secure domination problem",
     description:
       "Developed to identify the optimal solution for secure domination problem using Genetic and PSO algorithms.",
@@ -144,4 +153,6 @@ export const skillsData = [
   "Computer Networks",
   "Software Engineering",
   "Linux",
+  "Flutter",
+  "Firebase",
 ] as const;
