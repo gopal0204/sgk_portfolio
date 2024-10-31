@@ -85,14 +85,14 @@ export const projectsData = [
     title: "ChatApp",
     description:
       "A complete android chat app built with flutter and firebase that includes user authentication, real-time meassaging.",
-    tags: ["React", "JavaScript", "MongoDB", "Node.js", "Express"],
+    tags: ["Flutter", "Firebase"],
     imageUrl: chatapp,
     url: "/app-release.apk",
   },
   {
     title: "Genetic and PSO algorithms for secure domination problem",
     description:
-      "Developed to identify the optimal solution for secure domination problem using Genetic and PSO algorithms.",
+      "Developed the optimal solution for secure domination problem using Genetic and PSO algorithms.",
     tags: ["Python", "Algorithms", "Graphs"],
     imageUrl: securedominationImg,
     url: "https://github.com/gopal0204/Genetic-and-PSO-algorithum-for-secure-domination-number",
