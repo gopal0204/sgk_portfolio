@@ -30,8 +30,8 @@ export default function About() {
   demonstrated a keen interest in research through my work on graph theory
   algorithms during an internship at NIT Warangal, and enjoy applying
   theoretical concepts to practical problems. My projects, such as developing
-  a <span className="font-medium">Classroom Management System, multiplayer chess game, Genetic and PSO algorithms for secure domination problem</span> and a{" "}
-  <span className="font-medium">Phishing URL Detection system</span>, showcase my
+  a <span className="font-medium">Bloging Website, ChatApp, Genetic and PSO algorithms for secure domination problem</span> and a{" "}
+  <span className="font-medium">Phishing URL Detection system, etc..</span>, showcase my
   ability to learn and adapt quickly, solve complex problems, and create
   innovative solutions using frameworks like{" "}
   <span className="font-medium">React, Node.js,</span> and{" "}
