@@ -9,6 +9,7 @@ import chessImg from "@/public/chesssup.png";
 import blog from "@/public/blog.png";
 import prot from "@/public/prot.png";
 import chatapp from "@/public/Screenshot 2024-10-31 124442.png"
+import SGEstate from "@/public/SGEstate.png"
 
 export const links = [
   {
@@ -88,6 +89,14 @@ export const projectsData = [
     tags: ["Flutter", "Firebase"],
     imageUrl: chatapp,
     url: "/app-release.apk",
+  },
+  {
+    title: "SG Estate",
+    description:
+      "A complete MERN stack real estate web application ",
+    tags: ["React", "JavaScript", "MongoDB", "Node.js", "Express"],
+    imageUrl: SGEstate,
+    url: "https://sg-estate.onrender.com/",
   },
   {
     title: "Genetic and PSO algorithms for secure domination problem",
