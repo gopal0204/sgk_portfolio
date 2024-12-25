@@ -33,19 +33,58 @@ export const links = [
     hash: "#experience",
   },
   {
+    name: "Education",
+    hash: "#education",
+  },
+  {
     name: "Contact",
     hash: "#contact",
   },
 ] as const;
 
+export const educationData = [
+  {
+    title: "B.Tech, CSE - 7.81 CGPA",
+    location: "National Institue of Technology Andhra Pradesh",
+    description:
+      "",
+    icon: React.createElement(LuGraduationCap),
+    date: "2021 - 2025",
+  },
+  {
+    title: "Intermediate, MPC - 97.6%",
+    location: "Aditya Junior College",
+    description:
+      "",
+    icon: React.createElement(LuGraduationCap),
+    date: "2019 - 2021",
+  },
+  {
+    title: "10th - 10 GPA",
+    location: "Bhashyam Public School",
+    description:
+      "",
+    icon: React.createElement(LuGraduationCap),
+    date: "2019",
+  },
+] as const;
+
 export const experiencesData = [
   {
-    title: "Memeber",
-    location: "CSEA NIT Andhra Pradesh",
+    title: "App Developer",
+    location: "CropDoctor AI",
     description:
-      "I word as designer and designed near 50+ posters for events and workshops. I also upskilled in Ui/Ux design.",
+      "I working on functionalities and ui of the android app. Gen Ai Crop Doctor app will be available in playstore",
     icon: React.createElement(CgWorkAlt),
-    date: "AUG 2022 - AUG 2023",
+    date: "NOV 2024 - present",
+  },
+  {
+    title: "Executive Member",
+    location: "Graphic Cafe NIT Andhra Pradesh",
+    description:
+      "I working as desinger. I familiar with Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma, Canva",
+      icon: React.createElement(CgWorkAlt),
+    date: "SEP 2023 - AUG 2024",
   },
   {
     title: "Research Intern",
@@ -56,13 +95,15 @@ export const experiencesData = [
     date: "JUN 2023 - AUG 2023",
   },
   {
-    title: "Executive Member",
-    location: "Graphic Cafe NIT Andhra Pradesh",
+    title: "Memeber",
+    location: "CSEA NIT Andhra Pradesh",
     description:
-      "I working as desinger. I familiar with Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma, Canva",
-      icon: React.createElement(CgWorkAlt),
-    date: "SEP 2023 - present",
+      "I word as designer and designed near 50+ posters for events and workshops. I also upskilled in Ui/Ux design.",
+    icon: React.createElement(CgWorkAlt),
+    date: "AUG 2022 - AUG 2023",
   },
+  
+  
 ] as const;
 
 export const projectsData = [
