@@ -71,7 +71,7 @@ export const educationData = [
 
 export const experiencesData = [
   {
-    title: "App Developer",
+    title: "Software Developer",
     location: "CropDoctor AI",
     description:
       "I working on functionalities and ui of the android app. Gen Ai Crop Doctor app will be available in playstore",
