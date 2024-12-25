@@ -76,7 +76,7 @@ export const experiencesData = [
     description:
       "I working on functionalities and ui of the android app. Gen Ai Crop Doctor app will be available in playstore",
     icon: React.createElement(CgWorkAlt),
-    date: "NOV 2024 - present",
+    date: "OCT 2024 - present",
   },
   {
     title: "Executive Member",
