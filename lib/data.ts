@@ -44,7 +44,7 @@ export const links = [
 
 export const educationData = [
   {
-    title: "B.Tech, CSE - 7.81 CGPA",
+    title: "B.Tech, CSE - 7.72 CGPA",
     location: "National Institue of Technology Andhra Pradesh",
     description:
       "",
