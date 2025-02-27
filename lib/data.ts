@@ -60,7 +60,7 @@ export const educationData = [
     date: "2019 - 2021",
   },
   {
-    title: "10th - 10 GPA",
+    title: "10th Class- 10 GPA",
     location: "Bhashyam Public School",
     description:
       "",
@@ -76,7 +76,7 @@ export const experiencesData = [
     description:
       "I working on functionalities and ui of the android app. Gen Ai Crop Doctor app will be available in playstore",
     icon: React.createElement(CgWorkAlt),
-    date: "OCT 2024 - present",
+    date: "OCT 2024 - JAN 2025",
   },
   {
     title: "Executive Member",
